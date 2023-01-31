@@ -1,0 +1,2 @@
+# ignore all saved ml models
+*.h5
